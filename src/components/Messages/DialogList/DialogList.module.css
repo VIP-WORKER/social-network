@@ -1,0 +1,25 @@
+
+
+.wrapper{
+    flex: 0 0 40%;
+    background-color: yellow;
+    border-right: 1px solid #7E55F3;
+}
+
+.wrapper h2{
+    color: #47525E;
+    font-size: 26px;
+    line-height: 33px;
+}
+
+
+
+.list{
+    margin: 25px 0 0 50px;
+    list-style: inherit
+}
+
+.list li {
+    list-style: inherit
+}
+
